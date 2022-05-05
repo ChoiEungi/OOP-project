@@ -1,0 +1,10 @@
+#ifndef OOP_PROJECT_RECOMMENDATION_H
+#define OOP_PROJECT_RECOMMENDATION_H
+
+
+class Recommendation {
+
+};
+
+
+#endif //OOP_PROJECT_RECOMMENDATION_H
