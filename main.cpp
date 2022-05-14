@@ -4,7 +4,9 @@
 using namespace std;
 
 int main() {
-    Input t = Input();
-    cout << t.inputSelectionNumber();
+    int inputSelectionNumber;
+    Input::startInstruction();
+    inputSelectionNumber = Input::inputSelectionNumber();
+    Input::timeSelectInstruction(inputSelectionNumber);
     return 0;
 }

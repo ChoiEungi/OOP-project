@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
+/Users/choeeungi/CLionProjects/oop-project/input/Input.cpp
+Input.h
 /Users/choeeungi/CLionProjects/oop-project/input/Input.h
-
-/Users/choeeungi/CLionProjects/oop-project/main.cpp
 iostream
--
-input/Input.h
+/Users/choeeungi/CLionProjects/oop-project/input/iostream
+time.h
+/Users/choeeungi/CLionProjects/oop-project/input/time.h
+
 /Users/choeeungi/CLionProjects/oop-project/input/Input.h
 
