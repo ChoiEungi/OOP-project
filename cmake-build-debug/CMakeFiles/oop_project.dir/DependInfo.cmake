@@ -1,21 +1,20 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/choeeungi/CLionProjects/oop-project/domain/destination/Airplane.cpp" "/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o"
-  "/Users/choeeungi/CLionProjects/oop-project/domain/destination/Destination.cpp" "/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.o"
-  "/Users/choeeungi/CLionProjects/oop-project/domain/recommendation/Recommendation.cpp" "/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o"
-  "/Users/choeeungi/CLionProjects/oop-project/domain/station/Station.cpp" "/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/oop_project.dir/domain/station/Station.cpp.o"
-  "/Users/choeeungi/CLionProjects/oop-project/input/Input.cpp" "/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/oop_project.dir/input/Input.cpp.o"
-  "/Users/choeeungi/CLionProjects/oop-project/main.cpp" "/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/oop_project.dir/main.cpp.o"
-  "/Users/choeeungi/CLionProjects/oop-project/output/Output.cpp" "/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/oop_project.dir/output/Output.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/suyeo/CLionProjects/OOP-project/domain/destination/Airplane.cpp" "CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.obj" "gcc" "CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.obj.d"
+  "C:/Users/suyeo/CLionProjects/OOP-project/domain/destination/Destination.cpp" "CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.obj" "gcc" "CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.obj.d"
+  "C:/Users/suyeo/CLionProjects/OOP-project/domain/recommendation/Recommendation.cpp" "CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.obj" "gcc" "CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.obj.d"
+  "C:/Users/suyeo/CLionProjects/OOP-project/domain/station/Station.cpp" "CMakeFiles/oop_project.dir/domain/station/Station.cpp.obj" "gcc" "CMakeFiles/oop_project.dir/domain/station/Station.cpp.obj.d"
+  "C:/Users/suyeo/CLionProjects/OOP-project/input/Input.cpp" "CMakeFiles/oop_project.dir/input/Input.cpp.obj" "gcc" "CMakeFiles/oop_project.dir/input/Input.cpp.obj.d"
+  "C:/Users/suyeo/CLionProjects/OOP-project/main.cpp" "CMakeFiles/oop_project.dir/main.cpp.obj" "gcc" "CMakeFiles/oop_project.dir/main.cpp.obj.d"
+  "C:/Users/suyeo/CLionProjects/OOP-project/output/Output.cpp" "CMakeFiles/oop_project.dir/output/Output.cpp.obj" "gcc" "CMakeFiles/oop_project.dir/output/Output.cpp.obj.d"
   )
 
 # Targets to which this target links.

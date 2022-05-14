@@ -8,7 +8,6 @@ private:
     int a;
 public:
 
-
 };
 
 

@@ -4,14 +4,17 @@
 
 class Input {
 private:
-    int a;
-    void printNumberSelectionDirection();
-    void printLine();
+    static void printNumberSelectionDirection();
+    static void printNumberSelectionTime();
+    static void printLine();
+    static const char* numberToTransportation(int selectionNumber);
 
 public:
-    int inputSelectionNumber();
-
-
+    static int inputSelectionNumber();
+    static int inputSelectionNumberTime();
+    static void startInstruction();
+    static void leaveTimeInstruction(int selectionNumber);
+    static void timeSelectInstruction(int selectionNumber);
 };
 
 
