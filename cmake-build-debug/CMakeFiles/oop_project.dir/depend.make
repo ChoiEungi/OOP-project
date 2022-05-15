@@ -3,17 +3,25 @@
 
 CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o: ../domain/destination/Airplane.cpp
 CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o: ../domain/destination/Destination.h
-CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o: ../domain/station/Station.h
+CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o: ../domain/station/BusInfo.h
+
+CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o: ../domain/destination/CityBus.cpp
+CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o: ../domain/destination/Destination.h
+CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o: ../domain/station/BusInfo.h
 
 CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.o: ../domain/destination/Destination.cpp
 CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.o: ../domain/destination/Destination.h
-CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.o: ../domain/station/Station.h
+CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.o: ../domain/station/BusInfo.h
+
+CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o: ../domain/destination/Destination.h
+CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o: ../domain/destination/Train.cpp
+CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o: ../domain/station/BusInfo.h
 
 CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o: ../domain/recommendation/Recommendation.cpp
 CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o: ../domain/recommendation/Recommendation.h
 
-CMakeFiles/oop_project.dir/domain/station/Station.cpp.o: ../domain/station/Station.cpp
-CMakeFiles/oop_project.dir/domain/station/Station.cpp.o: ../domain/station/Station.h
+CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o: ../domain/station/BusInfo.cpp
+CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o: ../domain/station/BusInfo.h
 
 CMakeFiles/oop_project.dir/input/Input.cpp.o: ../input/Input.cpp
 CMakeFiles/oop_project.dir/input/Input.cpp.o: ../input/Input.h

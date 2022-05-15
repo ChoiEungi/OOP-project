@@ -83,10 +83,16 @@
 		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/destination/Airplane.cpp">
 			<Option target="oop_project"/>
 		</Unit>
+		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/destination/CityBus.cpp">
+			<Option target="oop_project"/>
+		</Unit>
 		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/destination/Destination.cpp">
 			<Option target="oop_project"/>
 		</Unit>
 		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/destination/Destination.h">
+			<Option target="oop_project"/>
+		</Unit>
+		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/destination/Train.cpp">
 			<Option target="oop_project"/>
 		</Unit>
 		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/recommendation/Recommendation.cpp">
@@ -95,10 +101,10 @@
 		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/recommendation/Recommendation.h">
 			<Option target="oop_project"/>
 		</Unit>
-		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/station/Station.cpp">
+		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/station/BusInfo.cpp">
 			<Option target="oop_project"/>
 		</Unit>
-		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/station/Station.h">
+		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/domain/station/BusInfo.h">
 			<Option target="oop_project"/>
 		</Unit>
 		<Unit filename="/Users/choeeungi/CLionProjects/oop-project/input/Input.cpp">

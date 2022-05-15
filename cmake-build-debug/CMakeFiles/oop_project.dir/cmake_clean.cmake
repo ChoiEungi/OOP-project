@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o"
+  "CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o"
   "CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.o"
+  "CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o"
   "CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o"
-  "CMakeFiles/oop_project.dir/domain/station/Station.cpp.o"
+  "CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o"
   "CMakeFiles/oop_project.dir/input/Input.cpp.o"
   "CMakeFiles/oop_project.dir/main.cpp.o"
   "CMakeFiles/oop_project.dir/output/Output.cpp.o"

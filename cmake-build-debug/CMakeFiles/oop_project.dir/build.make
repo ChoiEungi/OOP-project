@@ -128,22 +128,9 @@ CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/choeeungi/CLionProjects/oop-project/domain/destination/Destination.cpp -o CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.s
 
-CMakeFiles/oop_project.dir/domain/station/Station.cpp.o: CMakeFiles/oop_project.dir/flags.make
-CMakeFiles/oop_project.dir/domain/station/Station.cpp.o: ../domain/station/Station.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/oop_project.dir/domain/station/Station.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/oop_project.dir/domain/station/Station.cpp.o -c /Users/choeeungi/CLionProjects/oop-project/domain/station/Station.cpp
-
-CMakeFiles/oop_project.dir/domain/station/Station.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oop_project.dir/domain/station/Station.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/choeeungi/CLionProjects/oop-project/domain/station/Station.cpp > CMakeFiles/oop_project.dir/domain/station/Station.cpp.i
-
-CMakeFiles/oop_project.dir/domain/station/Station.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_project.dir/domain/station/Station.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/choeeungi/CLionProjects/oop-project/domain/station/Station.cpp -o CMakeFiles/oop_project.dir/domain/station/Station.cpp.s
-
 CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o: CMakeFiles/oop_project.dir/flags.make
 CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o: ../domain/recommendation/Recommendation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o -c /Users/choeeungi/CLionProjects/oop-project/domain/recommendation/Recommendation.cpp
 
 CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.i: cmake_force
@@ -156,7 +143,7 @@ CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.s: cmake_for
 
 CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o: CMakeFiles/oop_project.dir/flags.make
 CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o: ../domain/destination/Airplane.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o -c /Users/choeeungi/CLionProjects/oop-project/domain/destination/Airplane.cpp
 
 CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.i: cmake_force
@@ -167,15 +154,56 @@ CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/choeeungi/CLionProjects/oop-project/domain/destination/Airplane.cpp -o CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.s
 
+CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o: CMakeFiles/oop_project.dir/flags.make
+CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o: ../domain/destination/CityBus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o -c /Users/choeeungi/CLionProjects/oop-project/domain/destination/CityBus.cpp
+
+CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/choeeungi/CLionProjects/oop-project/domain/destination/CityBus.cpp > CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.i
+
+CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/choeeungi/CLionProjects/oop-project/domain/destination/CityBus.cpp -o CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.s
+
+CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o: CMakeFiles/oop_project.dir/flags.make
+CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o: ../domain/destination/Train.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o -c /Users/choeeungi/CLionProjects/oop-project/domain/destination/Train.cpp
+
+CMakeFiles/oop_project.dir/domain/destination/Train.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oop_project.dir/domain/destination/Train.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/choeeungi/CLionProjects/oop-project/domain/destination/Train.cpp > CMakeFiles/oop_project.dir/domain/destination/Train.cpp.i
+
+CMakeFiles/oop_project.dir/domain/destination/Train.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_project.dir/domain/destination/Train.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/choeeungi/CLionProjects/oop-project/domain/destination/Train.cpp -o CMakeFiles/oop_project.dir/domain/destination/Train.cpp.s
+
+CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o: CMakeFiles/oop_project.dir/flags.make
+CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o: ../domain/station/BusInfo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o -c /Users/choeeungi/CLionProjects/oop-project/domain/station/BusInfo.cpp
+
+CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/choeeungi/CLionProjects/oop-project/domain/station/BusInfo.cpp > CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.i
+
+CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/choeeungi/CLionProjects/oop-project/domain/station/BusInfo.cpp -o CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.s
+
 # Object files for target oop_project
 oop_project_OBJECTS = \
 "CMakeFiles/oop_project.dir/main.cpp.o" \
 "CMakeFiles/oop_project.dir/input/Input.cpp.o" \
 "CMakeFiles/oop_project.dir/output/Output.cpp.o" \
 "CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.o" \
-"CMakeFiles/oop_project.dir/domain/station/Station.cpp.o" \
 "CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o" \
-"CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o"
+"CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o" \
+"CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o" \
+"CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o" \
+"CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o"
 
 # External object files for target oop_project
 oop_project_EXTERNAL_OBJECTS =
@@ -184,12 +212,14 @@ oop_project: CMakeFiles/oop_project.dir/main.cpp.o
 oop_project: CMakeFiles/oop_project.dir/input/Input.cpp.o
 oop_project: CMakeFiles/oop_project.dir/output/Output.cpp.o
 oop_project: CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.o
-oop_project: CMakeFiles/oop_project.dir/domain/station/Station.cpp.o
 oop_project: CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.o
 oop_project: CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.o
+oop_project: CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o
+oop_project: CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o
+oop_project: CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o
 oop_project: CMakeFiles/oop_project.dir/build.make
 oop_project: CMakeFiles/oop_project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable oop_project"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable oop_project"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/oop_project.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

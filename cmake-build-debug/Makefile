@@ -169,6 +169,33 @@ domain/destination/Airplane.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/destination/Airplane.cpp.s
 .PHONY : domain/destination/Airplane.cpp.s
 
+domain/destination/CityBus.o: domain/destination/CityBus.cpp.o
+
+.PHONY : domain/destination/CityBus.o
+
+# target to build an object file
+domain/destination/CityBus.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.o
+.PHONY : domain/destination/CityBus.cpp.o
+
+domain/destination/CityBus.i: domain/destination/CityBus.cpp.i
+
+.PHONY : domain/destination/CityBus.i
+
+# target to preprocess a source file
+domain/destination/CityBus.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.i
+.PHONY : domain/destination/CityBus.cpp.i
+
+domain/destination/CityBus.s: domain/destination/CityBus.cpp.s
+
+.PHONY : domain/destination/CityBus.s
+
+# target to generate assembly for a file
+domain/destination/CityBus.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/destination/CityBus.cpp.s
+.PHONY : domain/destination/CityBus.cpp.s
+
 domain/destination/Destination.o: domain/destination/Destination.cpp.o
 
 .PHONY : domain/destination/Destination.o
@@ -195,6 +222,33 @@ domain/destination/Destination.s: domain/destination/Destination.cpp.s
 domain/destination/Destination.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/destination/Destination.cpp.s
 .PHONY : domain/destination/Destination.cpp.s
+
+domain/destination/Train.o: domain/destination/Train.cpp.o
+
+.PHONY : domain/destination/Train.o
+
+# target to build an object file
+domain/destination/Train.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/destination/Train.cpp.o
+.PHONY : domain/destination/Train.cpp.o
+
+domain/destination/Train.i: domain/destination/Train.cpp.i
+
+.PHONY : domain/destination/Train.i
+
+# target to preprocess a source file
+domain/destination/Train.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/destination/Train.cpp.i
+.PHONY : domain/destination/Train.cpp.i
+
+domain/destination/Train.s: domain/destination/Train.cpp.s
+
+.PHONY : domain/destination/Train.s
+
+# target to generate assembly for a file
+domain/destination/Train.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/destination/Train.cpp.s
+.PHONY : domain/destination/Train.cpp.s
 
 domain/recommendation/Recommendation.o: domain/recommendation/Recommendation.cpp.o
 
@@ -223,32 +277,32 @@ domain/recommendation/Recommendation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.s
 .PHONY : domain/recommendation/Recommendation.cpp.s
 
-domain/station/Station.o: domain/station/Station.cpp.o
+domain/station/BusInfo.o: domain/station/BusInfo.cpp.o
 
-.PHONY : domain/station/Station.o
+.PHONY : domain/station/BusInfo.o
 
 # target to build an object file
-domain/station/Station.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/station/Station.cpp.o
-.PHONY : domain/station/Station.cpp.o
+domain/station/BusInfo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.o
+.PHONY : domain/station/BusInfo.cpp.o
 
-domain/station/Station.i: domain/station/Station.cpp.i
+domain/station/BusInfo.i: domain/station/BusInfo.cpp.i
 
-.PHONY : domain/station/Station.i
+.PHONY : domain/station/BusInfo.i
 
 # target to preprocess a source file
-domain/station/Station.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/station/Station.cpp.i
-.PHONY : domain/station/Station.cpp.i
+domain/station/BusInfo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.i
+.PHONY : domain/station/BusInfo.cpp.i
 
-domain/station/Station.s: domain/station/Station.cpp.s
+domain/station/BusInfo.s: domain/station/BusInfo.cpp.s
 
-.PHONY : domain/station/Station.s
+.PHONY : domain/station/BusInfo.s
 
 # target to generate assembly for a file
-domain/station/Station.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/station/Station.cpp.s
-.PHONY : domain/station/Station.cpp.s
+domain/station/BusInfo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_project.dir/build.make CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.s
+.PHONY : domain/station/BusInfo.cpp.s
 
 input/Input.o: input/Input.cpp.o
 
@@ -343,15 +397,21 @@ help:
 	@echo "... domain/destination/Airplane.o"
 	@echo "... domain/destination/Airplane.i"
 	@echo "... domain/destination/Airplane.s"
+	@echo "... domain/destination/CityBus.o"
+	@echo "... domain/destination/CityBus.i"
+	@echo "... domain/destination/CityBus.s"
 	@echo "... domain/destination/Destination.o"
 	@echo "... domain/destination/Destination.i"
 	@echo "... domain/destination/Destination.s"
+	@echo "... domain/destination/Train.o"
+	@echo "... domain/destination/Train.i"
+	@echo "... domain/destination/Train.s"
 	@echo "... domain/recommendation/Recommendation.o"
 	@echo "... domain/recommendation/Recommendation.i"
 	@echo "... domain/recommendation/Recommendation.s"
-	@echo "... domain/station/Station.o"
-	@echo "... domain/station/Station.i"
-	@echo "... domain/station/Station.s"
+	@echo "... domain/station/BusInfo.o"
+	@echo "... domain/station/BusInfo.i"
+	@echo "... domain/station/BusInfo.s"
 	@echo "... input/Input.o"
 	@echo "... input/Input.i"
 	@echo "... input/Input.s"

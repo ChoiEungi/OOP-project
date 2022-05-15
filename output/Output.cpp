@@ -7,6 +7,7 @@ void Output::printTimeResult() {
     printLine();
     cout << "some result" << endl;
     printLine();
+
 }
 
 void Output::printLine() {

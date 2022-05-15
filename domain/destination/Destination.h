@@ -2,11 +2,11 @@
 #define OOP_PROJECT_DESTINATION_H
 
 
-#include "../station/Station.h"
+#include "../station/BusInfo.h"
 
 class Destination {
 private:
-    Station station;
+    BusInfo busInfo;
     int arrivalTime;
     int departureTime;
 public:
