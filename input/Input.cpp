@@ -36,7 +36,6 @@ void Input::timeSelectInstruction(int selectionNumber) {
 
 void Input::printNumberSelectionDirection() {
     cout << "Select the Number : ";
-
 }
 
 void Input::printLine(){
