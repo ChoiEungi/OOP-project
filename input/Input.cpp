@@ -26,7 +26,6 @@ void Input::startInstruction(){
 
 void Input::timeSelectInstruction(int selectionNumber) {
     string timeString;
-    struct tm tm = {};
 
     cout << "When is the departure time of the ";
     cout << numberToTransportation(selectionNumber) << "?" << "(ex. 16:30)" << endl;
@@ -37,7 +36,6 @@ void Input::timeSelectInstruction(int selectionNumber) {
 
 void Input::printNumberSelectionDirection() {
     cout << "Select the Number : ";
-
 }
 
 void Input::printLine(){
@@ -68,6 +66,9 @@ void Input::leaveTimeInstruction(int selectionNumber) {
     cout<<"When will you take a City Bus from GIST?"<<endl;
     cout<<"1. Now" << endl;
 }
+
+
+
 
 
 
