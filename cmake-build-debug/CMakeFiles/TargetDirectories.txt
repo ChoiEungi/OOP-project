@@ -1,3 +1,0 @@
-/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/oop_project.dir
-/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/choeeungi/CLionProjects/oop-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
