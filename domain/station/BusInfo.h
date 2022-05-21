@@ -3,14 +3,18 @@
 
 #include <string>
 #include "vector"
+#include "../time/custom_time.h"
 
 class BusInfo {
 private:
-    std::string busName;
-    std::vector<std::string> busArrivalTime;
-    std::string busStationName;
-    int takenTime;
+    std::string busName; // 버스 이름
+    std::vector<custom_time> busArrivalTimeList; // 도착 시간들
+    std::string beginningBusStationName; // 출발 정류장
+    int takenTime; // 소요 시간 (min)
+
 public:
+    BusInfo(std::string name, std::vector<custom_time> busArrivalTimeList, std::string beginningBusStationName, int takenTime);
+    int findRecommendationTime(custom_time beginningTime);
     void getBusInfo();
 };
 
