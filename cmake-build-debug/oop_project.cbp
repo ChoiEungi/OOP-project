@@ -109,6 +109,12 @@
 		<Unit filename="C:/Users/suyeo/CLionProjects/OOP-project/domain/station/BusInfo.h">
 			<Option target="oop_project"/>
 		</Unit>
+		<Unit filename="C:/Users/suyeo/CLionProjects/OOP-project/domain/station/cityBusDepartureTime.cpp">
+			<Option target="oop_project"/>
+		</Unit>
+		<Unit filename="C:/Users/suyeo/CLionProjects/OOP-project/domain/station/cityBusDepartureTime.h">
+			<Option target="oop_project"/>
+		</Unit>
 		<Unit filename="C:/Users/suyeo/CLionProjects/OOP-project/input/Input.cpp">
 			<Option target="oop_project"/>
 		</Unit>

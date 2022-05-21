@@ -272,6 +272,30 @@ domain/station/BusInfo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\oop_project.dir\build.make CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.s
 .PHONY : domain/station/BusInfo.cpp.s
 
+domain/station/cityBusDepartureTime.obj: domain/station/cityBusDepartureTime.cpp.obj
+.PHONY : domain/station/cityBusDepartureTime.obj
+
+# target to build an object file
+domain/station/cityBusDepartureTime.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\oop_project.dir\build.make CMakeFiles/oop_project.dir/domain/station/cityBusDepartureTime.cpp.obj
+.PHONY : domain/station/cityBusDepartureTime.cpp.obj
+
+domain/station/cityBusDepartureTime.i: domain/station/cityBusDepartureTime.cpp.i
+.PHONY : domain/station/cityBusDepartureTime.i
+
+# target to preprocess a source file
+domain/station/cityBusDepartureTime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\oop_project.dir\build.make CMakeFiles/oop_project.dir/domain/station/cityBusDepartureTime.cpp.i
+.PHONY : domain/station/cityBusDepartureTime.cpp.i
+
+domain/station/cityBusDepartureTime.s: domain/station/cityBusDepartureTime.cpp.s
+.PHONY : domain/station/cityBusDepartureTime.s
+
+# target to generate assembly for a file
+domain/station/cityBusDepartureTime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\oop_project.dir\build.make CMakeFiles/oop_project.dir/domain/station/cityBusDepartureTime.cpp.s
+.PHONY : domain/station/cityBusDepartureTime.cpp.s
+
 input/Input.obj: input/Input.cpp.obj
 .PHONY : input/Input.obj
 
@@ -371,6 +395,9 @@ help:
 	@echo ... domain/station/BusInfo.obj
 	@echo ... domain/station/BusInfo.i
 	@echo ... domain/station/BusInfo.s
+	@echo ... domain/station/cityBusDepartureTime.obj
+	@echo ... domain/station/cityBusDepartureTime.i
+	@echo ... domain/station/cityBusDepartureTime.s
 	@echo ... input/Input.obj
 	@echo ... input/Input.i
 	@echo ... input/Input.s

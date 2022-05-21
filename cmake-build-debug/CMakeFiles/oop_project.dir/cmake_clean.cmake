@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/oop_project.dir/domain/recommendation/Recommendation.cpp.obj.d"
   "CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.obj"
   "CMakeFiles/oop_project.dir/domain/station/BusInfo.cpp.obj.d"
+  "CMakeFiles/oop_project.dir/domain/station/cityBusDepartureTime.cpp.obj"
+  "CMakeFiles/oop_project.dir/domain/station/cityBusDepartureTime.cpp.obj.d"
   "CMakeFiles/oop_project.dir/input/Input.cpp.obj"
   "CMakeFiles/oop_project.dir/input/Input.cpp.obj.d"
   "CMakeFiles/oop_project.dir/main.cpp.obj"
