@@ -55,7 +55,7 @@ const char *Input::numberToTransportation(int selectionNumber) {
     }
 }
 
-int Input::inputSelectionNumberTime() {
+int Input::inputSelectionPoint() {
     printNumberSelectionTime();
     int inputNumber;
     cin >> inputNumber;
@@ -65,11 +65,24 @@ int Input::inputSelectionNumberTime() {
 void Input::leaveTimeInstruction(int selectionNumber) {
     cout<<"When will you take a City Bus from GIST?"<<endl;
     cout<<"1. Now" << endl;
+    cout<<"2. Later" << endl;
+    printLine();
+}
+
+void Input::printNumberSelectionTime() {
+    cout << "Select the Number : ";
 }
 
 
-
-
+void Input::pickTimeCalculation(int selectionNumber) {
+    if(selectionNumber==1){
+        cout<<"--not yet--"<<endl;
+    }
+    else if(selectionNumber==2){
+        timeSelectInstruction(selectionNumber);
+    }
+    printLine();
+}
 
 
 

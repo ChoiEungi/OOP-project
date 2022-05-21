@@ -3,7 +3,8 @@
 
 
 class Recommendation {
-
+public:
+    static void recommendationTime();
 };
 
 
