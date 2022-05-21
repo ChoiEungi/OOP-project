@@ -11,10 +11,12 @@ private:
 
 public:
     static int inputSelectionNumber();
-    static int inputSelectionNumberTime();
+    static int inputSelectionPoint();
     static void startInstruction();
     static void leaveTimeInstruction(int selectionNumber);
+    static void pickTimeCalculation(int selectionNumber);
     static void timeSelectInstruction(int selectionNumber);
+
 };
 
 
