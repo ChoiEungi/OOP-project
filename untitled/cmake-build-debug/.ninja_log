@@ -1,0 +1,14 @@
+# ninja log v5
+0	27	1653899663929992076	CMakeFiles/untitled.dir/domain/recommendation/Recommendation.cpp.o	5b74eb4926343ae9
+0	284	1653899664184017879	CMakeFiles/untitled.dir/domain/destination/Destination.cpp.o	800c393191b40197
+0	324	1653899664225791844	CMakeFiles/untitled.dir/output/Output.cpp.o	bce9b8e368743303
+27	325	1653899664226546703	CMakeFiles/untitled.dir/domain/destination/ExpressBus.cpp.o	99ec5168d1648450
+0	332	1653899664233804712	CMakeFiles/untitled.dir/input/Input.cpp.o	6772d3268003a6f7
+0	334	1653899664233848836	CMakeFiles/untitled.dir/main.cpp.o	1d68052ae4af677e
+285	487	1653899664389463989	CMakeFiles/untitled.dir/domain/destination/Train.cpp.o	cbb2cf5f065a7354
+326	518	1653899664420031407	CMakeFiles/untitled.dir/domain/time/CustomTime.cpp.o	872e9a37037a7eff
+333	526	1653899664428767508	CMakeFiles/untitled.dir/domain/station/BusInfoList.cpp.o	dbd7582fcf32dc5
+2	204	1653899675038497047	CMakeFiles/untitled.dir/domain/destination/DestinationList.cpp.o	428233ba4209769b
+1	243	1653899678010361217	CMakeFiles/untitled.dir/domain/destination/Airplane.cpp.o	d963657d1e65735a
+1	200	1653899685627307710	CMakeFiles/untitled.dir/domain/station/BusInfo.cpp.o	dc20b9104dedddb0
+200	228	1653899685656816109	untitled	9b95ec8b93c54397
